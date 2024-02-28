@@ -1,0 +1,39 @@
+[
+ {
+  "table":"__INDEX_INFORMATION",
+  "nametab":
+  [
+   {
+    "NAME":"AS4POS",
+    "KEY":"X",
+    "TYPE":"C",
+    "LENGTH":6,
+    "DECIMALS":-1
+   },
+   {
+    "NAME":"OBJECTSIZE",
+    "KEY":"",
+    "TYPE":"8",
+    "LENGTH":8,
+    "DECIMALS":-1
+   },
+   {
+    "NAME":"OBJECTFILESIZE",
+    "KEY":"",
+    "TYPE":"8",
+    "LENGTH":8,
+    "DECIMALS":-1
+   }
+  ],
+  "properties":
+  [
+   {
+    "CLIENTDEPENDENCY":"NO",
+    "DELIVERYCLASS":"W",
+    "TABART":"",
+    "TABFORM":" ",
+    "REFNAME":""
+   }
+  ]
+ }
+]
